@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       document-schema.js:
-        specifier: ^2.7.12
+        specifier: ^2.7.13
         version: 2.7.13
       zod:
         specifier: ^4.4.3
