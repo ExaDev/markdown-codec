@@ -1,5 +1,7 @@
 # markdown-codec
 
+> **This repository has moved.** `markdown-codec` now lives at [`packages/markdown-codec`](https://github.com/ExaDev/documents.js/tree/main/packages/markdown-codec) in the [`ExaDev/documents.js`](https://github.com/ExaDev/documents.js) monorepo. This repository is archived and will receive no further commits, releases, issues, or pull requests — file issues and send pull requests against the monorepo instead. The npm package itself is unaffected: `markdown-codec` keeps publishing from its new home under the same name.
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ExaDev/markdown-codec) [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/package/markdown-codec) [![Release](https://img.shields.io/github/v/release/ExaDev/markdown-codec)](https://github.com/ExaDev/markdown-codec/releases/latest) [![CI](https://img.shields.io/github/actions/workflow/status/ExaDev/markdown-codec/ci.yml?branch=main)](https://github.com/ExaDev/markdown-codec/actions)
 
 > Hand-written CommonMark+GFM ⇄ `DocumentPackage` codec, built on [document-schema.js](https://github.com/ExaDev/document-schema.js).
